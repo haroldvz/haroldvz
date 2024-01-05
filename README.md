@@ -18,7 +18,7 @@ And let's not forget my furry companion! Having a pet adds a joyful and lively d
 - 🗄️ Databases: MongoDB, PostgreSQL, Firebase, MySQL
 
 #### Connect With Me:
-- LinkedIn: [Harold Velez](www.linkedin.com/in/harold-velez-zambrano)
+- LinkedIn: [Harold Velez](https://www.linkedin.com/in/harold-velez-zambrano)
 - Email: harold.velez.zambrano@gmail.com
 
 #### Education:
